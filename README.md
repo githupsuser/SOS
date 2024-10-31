@@ -1,2 +1,0 @@
-# SOS
-Sound Observation System
