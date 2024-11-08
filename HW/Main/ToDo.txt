@@ -1,0 +1,36 @@
+actual: V1.1
+ToDo:
+* U28 Pin 5 to VSDcard
+* swap SCL4 and SDA4
+* Disable U6B (Pin 6)
+* remove footprint J37 (SMA)
+* correct footprint U4
+* correct footprint of U22
+* connect VDDSMPS fo VCC with 10µF and separate from VDD11
+* connect PA8 with PA9
+* separate GND SMPS pin 48 to C60/61
+* diode from U7_VCC (K) to VCCraw (A)
+* Cap between VUSB and GND (near D17)
+* CM Choke between SPE_PWR/GND and VUSB/GND
+* check: Hole 0,8 mm ? for pin sockets J23 ..30 and J25..28
+* Hole 0,9 mm for pin header K23 ..30 and K25..28
+* add series resistors 22 Ohm to ADIN1110 SPI, Int. and Capt. lines
+* bigger footprint for L10 for higher saturation current
+* check foorprint of L6
+* check 10n for C2, C4, C6, C8, C10, C21, C22
+* add 10µF on VSDcard
+* add placing support for U21 and U22
+* separate Shield from Earth on J14 and J15
+* Change J18 IPEX MHF I for prize reduction (CONMHF1-SMD-G-T)
+* 10k thin 0805 -> 0605 for prize reduction
+* C15..18 1206 -> 0805 for prize reduction (e.g. GRM2165C2A103JA01D)
+* change Reset-Switch for prize reduction (e.g. PTS815)
+* R146 also 0805 or all 300k in 0603
+* add polarity symbols on back mask for J1 and J2
+* increase text on back mask
+* NPTH and smaller dia for nSIM latch holes
+* add test pin on ADCdrdy, SCK1
+* smaller reference circles
+* move RI to WKUP (PB5 or PB8) to support Standby mode (EXTI up to Stop 3)
+* RI is active low (RI -> /RI)
+* add CS on SDO, see Q28 on Mic
