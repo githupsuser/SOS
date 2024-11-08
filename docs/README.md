@@ -116,12 +116,12 @@ The design priorities of the hardware are currently as follows:
 
 
 
-[^1]: Time averaging anonymizes the raw data. In machine learning, characteristics are also referred to as
-[^2]: https://de.wikipedia.org/wiki/Citizen_Science
+[^1]: Time averaging anonymizes the raw data. In machine learning, characteristics are also referred to as features.
+[^2]: https://en.wikipedia.org/wiki/Citizen_Science
 [^3]: https://github.com/githupsuser/SOS/tree/main
-[^4]: https://sensor.community/de
-[^5]: https://hardware.prototypefund.de/project/airrohr
-[^6]: https://sensor.community/de/sensors/dnms
+[^4]: https://sensor.community/en
+[^5]: https://hardware.prototypefund.de/en/project/airrohr
+[^6]: https://sensor.community/en/sensors/dnms
 [^7]: GNSS = Global Navigation Satellite System, f = female, m = male, IoT = Internet of Things /
 Wireless interface, SPE = Single-Pair-Ethernet, Main/Mic/Vibr.
 [^8]: https://vocal.com/beamforming-2/esprit-algorithm
