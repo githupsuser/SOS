@@ -13,7 +13,7 @@ for the:
 - Scaling mechanisms (commissioning of teh system, automatic firmware updates, etc.)
 
 ## Synergies
-The plan is to network with existing platforms such as SENSOR.COMMUNITY[^4] and AIRROHR[^5]. A sound level meter is already available for this[^6]. The hardware and software of the Sound Observation System (SOS) now also offers, among other things:
+It is planned to connect with existing platforms such as SENSOR.COMMUNITY[^4] and AIRROHR[^5]. A sound level meter is already available for this[^6]. The hardware and software of the Sound Observation System (SOS) now also offers, among other things:
 - frequency resolution and source localization (frequency and spatial spectrum)
 - an NB-IoT radio modem, as a WiFi network is not available everywhere
 - operational self-sufficiency
@@ -108,6 +108,8 @@ The design priorities of the hardware are currently as follows:
 2. self-sufficient operation (power requirement)
 3. product cost (hardware)
 4. operating costs
+
+
 
 [^1]: Time averaging anonymizes the raw data. In machine learning, characteristics are also referred to as
 [^2]: https://de.wikipedia.org/wiki/Citizen_Science
